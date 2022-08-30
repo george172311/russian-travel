@@ -1,0 +1,12 @@
+.intro {
+  width: 690px;
+  padding-left: 100px;
+  padding-bottom: 92px;
+  min-height: 430px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    padding-left: 0;
+  }
+}
