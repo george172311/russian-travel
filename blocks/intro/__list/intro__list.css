@@ -1,7 +1,7 @@
 .intro__list {
-  margin-top: 33px;
+  margin: 33px 0 0;
   color: #fff;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 12px;
   line-height: 18px;
   list-style-type: none;

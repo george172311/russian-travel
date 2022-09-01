@@ -1,0 +1,15 @@
+.place_first {
+  margin-top: 92px;
+}
+
+@media screen and (max-width: 1023px) {
+  .place_first {
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place_first {
+    margin-top: 64px;
+  }
+}
