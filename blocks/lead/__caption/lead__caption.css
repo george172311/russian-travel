@@ -5,7 +5,12 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   color: #fff;
-  text-align: center;
   text-transform: uppercase;
   align-self: flex-start;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
 }
